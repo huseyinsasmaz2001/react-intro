@@ -14,7 +14,7 @@ Cet exercice consiste à créer un système de listing de produits avec une fonc
 2. Assurez-vous d'avoir Node.js installé sur votre machine.
 3. Installez les dépendances en exécutant `npm install` dans le répertoire du projet.
 4. Lancez l'application en exécutant `npm start`.
-5. Ouvrez votre navigateur et accédez à `http://localhost:3000` pour voir l'application en action.
+
 
 ## Améliorations Possibles
 
